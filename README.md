@@ -11,7 +11,8 @@ Sole Capsule, a pre-launch sneaker preservation startup, faced a critical busine
 - Which shipping carriers offer the best rates for key markets?
 - How should we price shipping to maximize conversions and profit?
 - Would a "Free Shipping" strategy be profitable despite higher upfront costs?
-  Core Challenge: Making data-driven shipping decisions in a complete data vacuum before the first customer order.
+
+Core Challenge: Making data-driven shipping decisions in a complete data vacuum before the first customer order.
 
 ## Methodology
 
