@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-### Sole Capsule, a pre-launch sneaker preservation startup, faced a critical business decision: how to structure its shipping pricing to maximize customer acquisition and profitability. Without historical sales data, I built a comprehensive shipping cost simulation in Excel, analyzed global shipping patterns, and conducted a data-driven A/B test simulation in Python to evaluate a "Free Shipping" strategy. The analysis revealed that offering "Free Shipping" at a higher product price could increase conversion rates by 35.7% and profitability, provided it achieves modest conversion lifts. I recommended implementing this strategy with close performance monitoring.
+Sole Capsule, a pre-launch sneaker preservation startup, faced a critical business decision: how to structure its shipping pricing to maximize customer acquisition and profitability. Without historical sales data, I built a comprehensive shipping cost simulation in Excel, analyzed global shipping patterns, and conducted a data-driven A/B test simulation in Python to evaluate a "Free Shipping" strategy. The analysis revealed that offering "Free Shipping" at a higher product price could increase conversion rates by 35.7% and profitability, provided it achieves modest conversion lifts. I recommended implementing this strategy with close performance monitoring.
 
 ## Business Problem
 
@@ -11,7 +11,7 @@
 - Which shipping carriers offer the best rates for key markets?
 - How should we price shipping to maximize conversions and profit?
 - Would a "Free Shipping" strategy be profitable despite higher upfront costs?
-### Core Challenge: Making data-driven shipping decisions in a complete data vacuum before the first customer order.
+  Core Challenge: Making data-driven shipping decisions in a complete data vacuum before the first customer order.
 
 ## Methodology
 
@@ -61,12 +61,16 @@ o	Dashboard: Pivot tables for initial cost analysis
 - Break-even Analysis: Strategy becomes profitable at 2.04% conversion rate - below achieved rate
 
 ## Visualization Highlights:
+![Image] (ab_test_dashboard.png)
+
+- Conversion Rate Comparison: Bar chart showing 2.45% vs 1.80% with confidence intervals
+- Profit per Visitor: Visualization demonstrating $1.76 vs $1.26 advantage for variant group
+- Statistical Summary: Table showing key metrics and significance testing results
+- Sensitivity Analysis: Chart revealing profitability across different conversion scenarios
+
+## Critical Insight from Sensitivity Analysis:
+
 ![Image] (
-•	Conversion Rate Comparison: Bar chart showing 2.45% vs 1.80% with confidence intervals
-•	Profit per Visitor: Visualization demonstrating $1.76 vs $1.26 advantage for variant group
-•	Statistical Summary: Table showing key metrics and significance testing results
-•	Sensitivity Analysis: Chart revealing profitability across different conversion scenarios
-Critical Insight from Sensitivity Analysis:
 The "Free Shipping" strategy maintained profitability across a wide range of conversion rates, demonstrating low risk and high potential upside.
 6. Concluding Business Recommendation
 Implementation Recommendation:
