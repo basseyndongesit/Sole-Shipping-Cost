@@ -1,4 +1,4 @@
-# Sole: Optimizing Pre-Launch Shipping Strategy Through Data Simulation & A/B Testing
+# Sole Shipping: Optimizing Pre-Launch Shipping Strategy Through Data Simulation & A/B Testing
 
 ## Executive Summary
 
@@ -71,26 +71,28 @@ o	Dashboard: Pivot tables for initial cost analysis
 
 ## Critical Insight from Sensitivity Analysis:
 
-![Image] (
+![Image] (sensitivity_analysis_dashboard.png)
+
 The "Free Shipping" strategy maintained profitability across a wide range of conversion rates, demonstrating low risk and high potential upside.
-6. Concluding Business Recommendation
-Implementation Recommendation:
+
+## Concluding Business Recommendation
+
+### Implementation Recommendation:
 Adopt the "Free Shipping" strategy (Variant B) for Sole Capsule's US market launch.
 Strategic Rationale:
 1.	Profitability Evidence: The variant group showed 40% higher total profit despite smaller sample size
 2.	Low Risk Profile: Sensitivity analysis confirms profitability even with minimal conversion lifts
 3.	Competitive Advantage: "Free Shipping" is a proven conversion driver in e-commerce
 4.	Customer Psychology: Eliminating surprise shipping costs reduces cart abandonment
+
 Next Steps for Implementation:
 1.	Launch Strategy: Implement $295 "all-inclusive" pricing for US customers at launch
 2.	Performance Monitoring: Track conversion rates, average order value, and customer acquisition cost
 3.	Carrier Optimization: Continue analyzing actual shipping costs for carrier negotiation
 4.	Geographic Expansion: Apply similar analysis framework to European markets post-US launch
 5.	Live A/B Testing: Conduct formal A/B tests once sufficient traffic is available
+
 Risk Mitigation:
 •	Maintain flexibility to adjust pricing if conversion targets aren't met
 •	Monitor carrier performance to ensure shipping cost assumptions remain valid
 •	Gather customer feedback on pricing perception and shipping expectations
-This data-driven approach transforms a critical business uncertainty into a calculated strategic decision, positioning Sole Capsule for optimized customer acquisition and profitability from day one.
-
-
