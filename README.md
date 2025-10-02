@@ -17,21 +17,21 @@ Core Challenge: Making data-driven shipping decisions in a complete data vacuum 
 ## Methodology
 
 To solve this zero-data problem, I implemented a three-phase analytical approach:
-### Phase 1: Cost Infrastructure Development
+#### Phase 1: Cost Infrastructure Development
 1. Created a simulated shipping cost engine in Excel with 300+ synthetic orders.
 2. Structured data across multiple interconnected sheets:
-o	Variable Assumptions: Product dimensions, weight, shipping origins.
-o	Carrier Zones: Geographic mapping to carrier-specific zones.
-o	Rates Table: Actual carrier pricing for standard/express shipping.
-o	MainData: Complete order simulation with realistic shipping costs.
-o	Dashboard: Pivot tables for initial cost analysis.
+- Variable Assumptions: Product dimensions, weight, shipping origins.
+- Carrier Zones: Geographic mapping to carrier-specific zones.
+- Rates Table: Actual carrier pricing for standard/express shipping.
+- MainData: Complete order simulation with realistic shipping costs.
+- Dashboard: Pivot tables for initial cost analysis.
 
-### Phase 2: Exploratory Data Analysis
+#### Phase 2: Exploratory Data Analysis
 - Analyzed global shipping patterns, identifying North America as the lowest-cost region.
 - Determined average shipping cost to USA: $62.26 (with standard shipping at $43.20).
 - Established baseline metrics for A/B test simulation.
   
-### Phase 3: Strategic A/B Test Simulation
+#### Phase 3: Strategic A/B Test Simulation
 - Built a Python-based A/B test simulator with 4,000 synthetic visitors.
 - Tested hypothesis: "Free Shipping with higher product price increases conversions".
 - Control Group (A): $250 product + $43.20 shipping.
@@ -40,14 +40,14 @@ o	Dashboard: Pivot tables for initial cost analysis.
 
 ## Skills and Tools Used
 
-### Technical Skills:
+#### Technical Skills:
 - Data Simulation & Synthetic Data Generation.
 - Statistical Analysis & Hypothesis Testing.
 - A/B Test Design & Implementation.
 - Sensitivity Analysis & Break-even Calculation.
 - Data Visualization & Dashboard Creation.
 
-### Tools & Technologies:
+#### Tools & Technologies:
 - Excel: Data infrastructure, cost modeling, pivot tables.
 - Python: Statistical simulation, data analysis, visualization.
 - Pandas & NumPy: Data manipulation and numerical computing.
@@ -55,7 +55,7 @@ o	Dashboard: Pivot tables for initial cost analysis.
 - Scipy: Statistical significance testing (Chi-squared tests).
 
 ## Results with Visualizations
-### Key Findings from A/B Test Simulation:
+Key Findings from A/B Test Simulation:
 - Conversion Rate Lift: Variant group showed 35.7% higher conversion (2.45% vs 1.80%).
 - Profitability Impact: Variant group generated 40% higher total profit ($3,518 vs $2,520).
 - Statistical Context: P-value of 0.193 indicated trend but not 95% significance in this simulation.
