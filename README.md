@@ -62,7 +62,7 @@ Key Findings from A/B Test Simulation:
 - Break-even Analysis: Strategy becomes profitable at 2.04% conversion rate - below achieved rate.
 
 ## Visualization Highlights:
-![Dashboard](ab_test_dashboard.png)
+![Image](ab_test_dashboard.png)
 - Conversion Rate Comparison: Bar chart showing 2.45% vs 1.80% with confidence intervals.
 - Profit per Visitor: Visualization demonstrating $1.76 vs $1.26 advantage for variant group.
 - Statistical Summary: Table showing key metrics and significance testing results.
