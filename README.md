@@ -6,7 +6,7 @@ Sole Capsule, a pre-launch sneaker preservation startup, faced a critical busine
 
 ## Business Problem
 
-### As a pre-launch company, Sole Capsule had no customer data to answer fundamental go-to-market questions:
+As a pre-launch company, Sole Capsule had no customer data to answer fundamental go-to-market questions:
 - What is the most cost-effective way to ship products globally?
 - Which shipping carriers offer the best rates for key markets?
 - How should we price shipping to maximize conversions and profit?
@@ -16,7 +16,7 @@ Core Challenge: Making data-driven shipping decisions in a complete data vacuum 
 
 ## Methodology
 
-### To solve this zero-data problem, I implemented a three-phase analytical approach:
+To solve this zero-data problem, I implemented a three-phase analytical approach:
 ### Phase 1: Cost Infrastructure Development
 1. Created a simulated shipping cost engine in Excel with 300+ synthetic orders.
 2. Structured data across multiple interconnected sheets:
