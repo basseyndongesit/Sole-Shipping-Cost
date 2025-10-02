@@ -70,13 +70,12 @@ Key Findings from A/B Test Simulation:
 
 ## Critical Insight from Sensitivity Analysis:
 
-![Image] (sensitivity_analysis_dashboard.png)
-
+![Image](sensitivity_analysis_dashboard.png)
 The "Free Shipping" strategy maintained profitability across a wide range of conversion rates, demonstrating low risk and high potential upside.
 
 ## Concluding Business Recommendation
 
-### Implementation Recommendation:
+Implementation Recommendation:
 Adopt the "Free Shipping" strategy (Variant B) for Sole Capsule's US market launch.
 Strategic Rationale:
 1.	Profitability Evidence: The variant group showed 40% higher total profit despite smaller sample size.
